@@ -1,0 +1,16 @@
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\bin\Debug\net5.0\Abstraindo um RPG.exe
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\bin\Debug\net5.0\Abstraindo um RPG.deps.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\bin\Debug\net5.0\Abstraindo um RPG.runtimeconfig.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\bin\Debug\net5.0\Abstraindo um RPG.runtimeconfig.dev.json
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\bin\Debug\net5.0\Abstraindo um RPG.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\bin\Debug\net5.0\ref\Abstraindo um RPG.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\bin\Debug\net5.0\Abstraindo um RPG.pdb
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.csproj.AssemblyReference.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.AssemblyInfoInputs.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.AssemblyInfo.cs
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\ref\Abstraindo um RPG.dll
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.pdb
+C:\WorkSpace\Desafio GIT DIO\Dio-desafio-github-primeiro-repositorio\Introdução ao .NET\Abstraindo um RPG\obj\Debug\net5.0\Abstraindo um RPG.genruntimeconfig.cache
